@@ -1,2 +1,2 @@
 # text_classifier
-Text classifier based on deep neural network.
+Some neural network based text classifier
